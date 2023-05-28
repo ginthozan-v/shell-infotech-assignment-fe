@@ -1,0 +1,13 @@
+.outer_div {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.button_bar {
+  margin-bottom: 1rem;
+}
+
+.grid_wrapper {
+  flex: 1 1 auto;
+}

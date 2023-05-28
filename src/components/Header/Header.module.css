@@ -1,0 +1,14 @@
+.link {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: white;
+  margin: 0;
+}
+
+.active {
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: rgb(255, 204, 0);
+  margin: 0;
+}
